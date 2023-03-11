@@ -23,7 +23,7 @@ class LightningNet(pl.LightningModule):
     def forward(...):
         ...
 
-    def training_step(...:
+    def training_step(...):
         ...
 
     def configure_optimizers(...):
